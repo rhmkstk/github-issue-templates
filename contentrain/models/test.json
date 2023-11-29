@@ -1,0 +1,11 @@
+[
+  {
+    "name": "date",
+    "fieldId": "date",
+    "validations": {},
+    "options": {},
+    "componentId": "date",
+    "modelId": "test",
+    "fieldType": "date"
+  }
+]
