@@ -7,5 +7,14 @@
     "componentId": "date",
     "modelId": "test",
     "fieldType": "date"
+  },
+  {
+    "name": "single-line",
+    "fieldId": "single-line",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
