@@ -16,5 +16,23 @@
     "componentId": "single-line-text",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "new-value",
+    "fieldId": "new-value",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "serkan"
+          }
+        }
+      }
+    },
+    "componentId": "single-line-text",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
